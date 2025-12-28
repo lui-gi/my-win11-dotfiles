@@ -5,10 +5,9 @@ My personal dotfiles for Windows 11. Currently uses Komorebi + YASB.
 
 ### Video demonstrations
 
-![Desktop](/preview/image.png)
-![komorebi demo](/preview/image2.png)
+![Desktop](/demos/image.png)
+![komorebi demo](/demos/image2.png)
 
-[Video 1](/preview/)
 
 ## Overview
 
