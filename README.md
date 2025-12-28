@@ -3,9 +3,11 @@ My personal dotfiles for Windows 11. Currently uses Komorebi + YASB.
 
 ## Preview
 
-### Video demonstrations
+### Desktop
 
 ![Desktop](/demos/image.png)
+
+### komorebi demo
 ![komorebi demo](/demos/image2.png)
 
 
